@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: schedule-bot
+Version: 1.0.0
+Summary: Simple schedule telegram bot
+Home-page: UNKNOWN
+Author: ImmortalMajor
+Author-email: ...
+License: UNKNOWN
+Description: Simple schedule telegram bot
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Topic :: Telegram Bot

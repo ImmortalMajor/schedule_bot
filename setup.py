@@ -1,6 +1,12 @@
 import os
 from setuptools import setup
 
+requires = [
+    'python-telegram-bot',
+    'setuptools',
+    'pyTelegramBotAPI',
+]
+
 
 def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
